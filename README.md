@@ -2,9 +2,9 @@
 
 # Background
 
-(From the assignment) "A fintech startup company has recently hired you. This company is disrupting the finance industry with its own cross-border, Ethereum-compatible blockchain that connects financial institutions. Currently, the team is building smart contracts to automate many of the institutions’ financial processes and features, such as hosting joint savings accounts.
+(From the assignment) "After waiting for years and passing several tests, you were selected by the Martian Aerospace Agency to be part of the first human colony on Mars. As a prominent fintech professional, you were chosen to lead a project to develop a monetary system for the new Mars colony. You have decided to base this new monetary system on blockchain technology, and to define a new cryptocurrency called KaseiCoin. KaseiCoin will be a fungible token that is ERC-20 compliant. You will launch a crowdsale that will allow people who are moving to Mars to convert their earthling money to KaseiCoin. Tokens are minted by using a Crowdsale contract from the OpenZeppelin Solidity library.
 
-To automate the creation of joint savings accounts, you’ll create a Solidity smart contract that accepts two user addresses. These addresses will be able to control a joint savings account. Your smart contract will use ether management functions to implement a financial institution’s requirements for providing the features of the joint savings account. These features will consist of the ability to deposit and withdraw funds from the account."
+The crowdsale contract that you create will manage the entire crowdsale process, allowing users to send ether to the contract and in return receive KAI, or KaseiCoin tokens. Your contract will mint the tokens automatically and distribute them to buyers in one transaction."
 
 ## Evaluation Evidence
 
@@ -61,7 +61,7 @@ Sending 10 ether as wei
 This contract was written in Solidity 0.5.0.
 
 # Usage
-To use this app, open X X X X X and paste into the Remix IDE.
+To use this app, open KaseiCoin.sol and KaseiCoinCrowdsale.sol and paste into the Remix IDE.
 
 # Contributors
 
