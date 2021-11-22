@@ -11,25 +11,25 @@ The crowdsale contract that you create will manage the entire crowdsale process,
 # Images
 ### Figure 1
 
-Solidity Code
+Solidity Code for KaseiCoin.sol
 
 ![Fig 1 - ](https://github.com/toniahurst/FinTech_Module_21_Challenge/blob/main/IMAGES/Fig.1-KaseiCoin.sol_COMPILED.png)
 
 ### Figure 2
 
-Using the setAccounts function
+Solidity code for KaseiCoinCrowdsale.sol
 
 ![Fig 2 - ](https://github.com/toniahurst/FinTech_Module_21_Challenge/blob/main/IMAGES/Fig.2-KaseiCoinCrowdsale.sol_COMPILED.png)
 
 ### Figure 3
 
-Test the deposit function.
+Solidity code for KaseiCoinCrowdsaleDeployer (inlcuded in KaseiCoinCrowdsale.sol)
 
 ![Fig 3 - ](https://github.com/toniahurst/FinTech_Module_21_Challenge/blob/main/IMAGES/Fig.3-KaseiCoinCrowdsaleDeployer.png)
 
 ### Figure 4
 
-Sending 1 ether as wei.
+The RPC Url
 
 ![Fig 4 - ](https://github.com/toniahurst/FinTech_Module_21_Challenge/blob/main/IMAGES/Fig.4-Copy_RPC_Server_URL.png)
 
