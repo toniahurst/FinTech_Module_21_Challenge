@@ -58,7 +58,7 @@ Sending 10 ether as wei
 
 # Technologies
 
-This contract was written in Solidity 0.5.0.
+This contract was compiled with Solidity 0.5.5
 
 # Usage
 To use this app, open KaseiCoin.sol and KaseiCoinCrowdsale.sol and paste into the Remix IDE.
