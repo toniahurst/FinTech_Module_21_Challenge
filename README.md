@@ -41,20 +41,19 @@ Sending 10 ether as wei
 
 ### Figure 6
 
-Sending 5 ether
 
-![Fig 6 - ](https://github.com/toniahurst/FinTech_Module_20_Challenge/blob/main/Execution_Results/Screen%20Shot%202021-11-14%20at%2010.48.56%20PM.png)
+
+![Fig 6 - ]()
 
 ### Figure 7
 
-Withdrawing 5 ether into accountOne
-![Fig 7 - ](https://github.com/toniahurst/FinTech_Module_20_Challenge/blob/main/Execution_Results/Screen%20Shot%202021-11-14%20at%2010.49.58%20PM.png)
+
+![Fig 7 - ]()
 
 ### Figure 8
 
-Withdrawing 10 ether into accountTwo
 
-![Fig 8 - ](https://github.com/toniahurst/FinTech_Module_20_Challenge/blob/main/Execution_Results/Screen%20Shot%202021-11-14%20at%2010.51.11%20PM.png)
+![Fig 8 - ]()
 
 
 # Technologies
@@ -62,7 +61,7 @@ Withdrawing 10 ether into accountTwo
 This contract was written in Solidity 0.5.0.
 
 # Usage
-To use this app, open the JointSavings.sol file and paste into the Remix IDE.
+To use this app, open X X X X X and paste into the Remix IDE.
 
 # Contributors
 
