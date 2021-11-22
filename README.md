@@ -35,7 +35,7 @@ The RPC Url
 
 ### Figure 5
 
-Sending 10 ether as wei
+Connecting to devNetwork.
 
 ![Fig 5 - ](https://github.com/toniahurst/FinTech_Module_21_Challenge/blob/main/IMAGES/Fig.5-Create_devNetwork.png)
 
